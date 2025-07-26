@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Version: 6.0.2
+          Version: 6.0.3
         </p>
         <a
           className="App-link"
